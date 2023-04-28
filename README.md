@@ -1,1 +1,1 @@
-# Single_sideband_modulation
+# AMPLITUDNA MODULACIJA SA JEDNIM BOČNIM OPSEGOM (_Digitalna obrada signala_)
